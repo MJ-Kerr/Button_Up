@@ -1,11 +1,18 @@
 .btn1 {
-    
+    color: rgba(0, 255, 195, 0.891);
+    border-radius: 20%;
 }
 
 .btn2{
+    color:antiquewhite;
+    border-color: aqua;
+    background-color: aqua;
     border-radius: 50%; 
 }
 
 .btn3 {
+    border-color: black;
+    color: white;
+    background-color: blue;
     box-shadow: 12px 12px 2px 1px rgb(255, 0, 221);
 }
