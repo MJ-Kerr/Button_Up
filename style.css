@@ -1,8 +1,11 @@
-#btn1 {
+.btn1 {
 
 }
 
+.btn2{
+    border-radius: 50%; 
+}
 
-#btn3 {
+.btn3 {
     box-shadow: 12px 12px 2px 1px rgb(255, 0, 221);
 }
